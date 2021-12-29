@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/boseprasanta/express-typescript-skeleton.git"
   },
-  "author": "Prasanta Bose",
+  "author": "Prasanta Bose <pbose1310@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/boseprasanta/express-typescript-skeleton/issues"
