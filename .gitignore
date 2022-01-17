@@ -65,3 +65,5 @@ typings/
 *.swp
 *.swap
 .vscode/
+
+dist/
