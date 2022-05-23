@@ -5,6 +5,7 @@
       "mocha": true
     },
     "extends": "airbnb-base",
+    "ignorePatterns": [".env"],
     "rules": {
       "func-names": [
         "error",
